@@ -51,7 +51,7 @@ Urban Development and Planning in China
 
 Nearly 1000 scholars, students, planners and officials from more than 20 countries gathered in Beijing this summer to address some of the critical issues emerging from the rapid development of urban China.
 
-Organized by the [China Planning Network](http://www.chinaplanning.org/) - a group of faculty, students and practitioners based at MIT and Harvard - the conference was a continuation of two previous conferences, held at Harvard in 2004 and at MIT in 2005. The conference series has become a significant way for students, faculty and practitioners from the west to engage with the rapidly changing development scene in China, fulfilling the aim of the China Planning Network to act as a bridge between planning and development communities in China and their U.S.-based colleagues.
+Organized by the {{% resource_link "52a63cd8-73a7-46d8-bd08-f835efcc48ec" "China Planning Network" %}} - a group of faculty, students and practitioners based at MIT and Harvard - the conference was a continuation of two previous conferences, held at Harvard in 2004 and at MIT in 2005. The conference series has become a significant way for students, faculty and practitioners from the west to engage with the rapidly changing development scene in China, fulfilling the aim of the China Planning Network to act as a bridge between planning and development communities in China and their U.S.-based colleagues.
 
 The three-day conference focused on the rapid development of China's urban transportation systems; the spatial impacts of regional planning and economic development; ecological cities and sustainability; lessons from American and European real estate markets; and planning education and practice in China, America and Europe.
 
