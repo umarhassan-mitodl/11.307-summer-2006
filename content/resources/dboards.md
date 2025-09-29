@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-307-beijing-urban-design-studio-summer-2006/2abcd96d14388d1ce833a8992f3f2e79_dboards.pdf
 file_size: 1541863
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

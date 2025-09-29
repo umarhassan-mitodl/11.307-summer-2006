@@ -4,6 +4,8 @@ description: This topic includes design concept and  illustrative sketch plan.
 file: /courses/11-307-beijing-urban-design-studio-summer-2006/9b9f07b872ee7e5218d048d106f59c4f_assn2.pdf
 file_size: 28142
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
