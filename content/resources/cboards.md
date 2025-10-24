@@ -5,8 +5,6 @@ description: This file includes program, phasing, reweave housing, reweave stree
 file: /courses/11-307-beijing-urban-design-studio-summer-2006/ea1901864e5685f97ca2abd10d316767_cboards.pdf
 file_size: 1332608
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

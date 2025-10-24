@@ -6,8 +6,6 @@ description: This file includes images on status quo,  official master plan, pro
 file: /courses/11-307-beijing-urban-design-studio-summer-2006/1b7a62844235d533fa74103205f7ded4_fboards.pdf
 file_size: 4371670
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

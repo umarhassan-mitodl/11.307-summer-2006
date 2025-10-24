@@ -2,8 +2,6 @@
 content_type: page
 description: The project section discusses about groups, final  presentations and
   presntation boards.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

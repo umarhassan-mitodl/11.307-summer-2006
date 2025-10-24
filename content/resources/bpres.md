@@ -5,8 +5,6 @@ description: This file includes rationale, analysis,  principles, strategies, ma
 file: /courses/11-307-beijing-urban-design-studio-summer-2006/033aa77043848f821327df431633e6ba_bpres.pdf
 file_size: 10017796
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

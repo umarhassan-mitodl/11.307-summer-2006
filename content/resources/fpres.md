@@ -5,8 +5,6 @@ description: This file includes city Yet-to-be Urbanized, forbidden city, Mixed-
 file: /courses/11-307-beijing-urban-design-studio-summer-2006/ae6a9921e834e147c1ee1cd321b3107d_fpres.pdf
 file_size: 5309315
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

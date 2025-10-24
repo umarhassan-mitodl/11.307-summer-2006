@@ -7,8 +7,6 @@ description: This file includes images on guiding principles, housing options fo
 file: /courses/11-307-beijing-urban-design-studio-summer-2006/6ed670a1729e5073b78b84d2c430a053_epres.pdf
 file_size: 3317652
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
